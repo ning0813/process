@@ -1,0 +1,4 @@
+#com.pscsoft.arcana.processor.impl.DemoProcessor
+#com.pscsoft.arcana.processor.impl.ArubaProcessor
+#com.pscsoft.arcana.processor.impl.XmlToJsonProcessor
+com.pscsoft.arcana.processor.impl.WindowsProcessor
